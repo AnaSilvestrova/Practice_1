@@ -3,17 +3,17 @@
 5 -> Пятница
 */
 
-Console.Write("Vvedite chislo: ");
+Console.Write("Input number: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Dictionary<int, string> map = new Dictionary<int, string>()
 {
-    { 1, "Ponedelnik"},
-    { 2, "Vtornik"},
-    { 3, "Sreda"},
-    { 4, "Chetverg"},
-    { 5, "Pyatnica"},
-    { 6, "Subbota"},
-    { 7, "VOSKRESENIE!!!"}
+    { 1, "Monday"},
+    { 2, "Tuesday"},
+    { 3, "Wensday"},
+    { 4, "Thursday"},
+    { 5, "Friday"},
+    { 6, "Saturday"},
+    { 7, "Sunday"}
 };
 if (n > 0 && n < 8)
 {
@@ -21,5 +21,5 @@ if (n > 0 && n < 8)
 }
 else
 {
-    Console.WriteLine($"OSHIBKA!");
+    Console.WriteLine($"Mistake");
 }

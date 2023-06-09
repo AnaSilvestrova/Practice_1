@@ -6,15 +6,15 @@ a = 2, b = 10 -> нет
 a = 9, b = -3 -> да 
 a = -3 b = 9 -> нет
 */
-Console.Write("Input number 1 ");
-int number1 = Convert.ToInt32(Console.ReadLine)Console.Write("Input number 1: ");
-Console.Write("Input number 2 ");
+Console.Write("Input number 1: ");
+int number1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input number 2: ");
 int number2 = Convert.ToInt32(Console.ReadLine());
-if (number2 == number1 * number1)
+if (number1 == number2 * number2)
 {
-    Console.Write($"Yes.");
+    Console.Write($"Yes, {number1} is a square of {number2}.");
 }
 else
 {
-    Console.Write($"No.");
+    Console.Write($"No, {number1} is not a square of {number2}.");
 }

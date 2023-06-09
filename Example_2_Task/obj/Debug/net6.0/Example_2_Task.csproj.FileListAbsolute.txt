@@ -3,3 +3,13 @@ D:\GB\C#\Practice_1\Example_2_Task\obj\Debug\net6.0\Example_2_Task.GeneratedMSBu
 D:\GB\C#\Practice_1\Example_2_Task\obj\Debug\net6.0\Example_2_Task.AssemblyInfoInputs.cache
 D:\GB\C#\Practice_1\Example_2_Task\obj\Debug\net6.0\Example_2_Task.AssemblyInfo.cs
 D:\GB\C#\Practice_1\Example_2_Task\obj\Debug\net6.0\Example_2_Task.csproj.CoreCompileInputs.cache
+D:\GB\C#\Practice_1\Example_2_Task\bin\Debug\net6.0\Example_2_Task.exe
+D:\GB\C#\Practice_1\Example_2_Task\bin\Debug\net6.0\Example_2_Task.deps.json
+D:\GB\C#\Practice_1\Example_2_Task\bin\Debug\net6.0\Example_2_Task.runtimeconfig.json
+D:\GB\C#\Practice_1\Example_2_Task\bin\Debug\net6.0\Example_2_Task.dll
+D:\GB\C#\Practice_1\Example_2_Task\bin\Debug\net6.0\Example_2_Task.pdb
+D:\GB\C#\Practice_1\Example_2_Task\obj\Debug\net6.0\Example_2_Task.dll
+D:\GB\C#\Practice_1\Example_2_Task\obj\Debug\net6.0\refint\Example_2_Task.dll
+D:\GB\C#\Practice_1\Example_2_Task\obj\Debug\net6.0\Example_2_Task.pdb
+D:\GB\C#\Practice_1\Example_2_Task\obj\Debug\net6.0\Example_2_Task.genruntimeconfig.cache
+D:\GB\C#\Practice_1\Example_2_Task\obj\Debug\net6.0\ref\Example_2_Task.dll
