@@ -1,0 +1,15 @@
+D:\GB\C#\Practice_1\Example_4_Task4\bin\Debug\net6.0\Example_4_Task4.exe
+D:\GB\C#\Practice_1\Example_4_Task4\bin\Debug\net6.0\Example_4_Task4.deps.json
+D:\GB\C#\Practice_1\Example_4_Task4\bin\Debug\net6.0\Example_4_Task4.runtimeconfig.json
+D:\GB\C#\Practice_1\Example_4_Task4\bin\Debug\net6.0\Example_4_Task4.dll
+D:\GB\C#\Practice_1\Example_4_Task4\bin\Debug\net6.0\Example_4_Task4.pdb
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\Example_4_Task4.csproj.AssemblyReference.cache
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\Example_4_Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\Example_4_Task4.AssemblyInfoInputs.cache
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\Example_4_Task4.AssemblyInfo.cs
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\Example_4_Task4.csproj.CoreCompileInputs.cache
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\Example_4_Task4.dll
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\refint\Example_4_Task4.dll
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\Example_4_Task4.pdb
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\Example_4_Task4.genruntimeconfig.cache
+D:\GB\C#\Practice_1\Example_4_Task4\obj\Debug\net6.0\ref\Example_4_Task4.dll
