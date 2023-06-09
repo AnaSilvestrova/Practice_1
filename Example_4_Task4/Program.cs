@@ -5,11 +5,10 @@
 2 -> " -2, -1, 0, 1, 2"
 */
 
-Console.Write("Input number ");
+Console.Write("Input number: ");
 int n = Convert.ToInt32(Console.ReadLine());
-int n1 = Convert.ToInt32(n * -1);
+int n1 = Convert.ToInt32(n * -1); // Для отрицательных чисел.
 for (int i = -n; i <= n; i++)
 {
-    Console.Write($"{i} ");
+    Console.Write($"{i}, ");
 }
-
