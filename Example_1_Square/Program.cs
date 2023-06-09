@@ -12,4 +12,4 @@ int number = Convert.ToInt32(Console.ReadLine());
 int power = 2; // power of the number;
 int squareNumber = (int)Math.Pow(number, power);
 
-Console.Write($"Square {number} is {squareNumber}");
+Console.Write($"Square {number} is {squareNumber}.");
