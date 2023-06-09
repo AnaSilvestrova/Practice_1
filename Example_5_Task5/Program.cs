@@ -6,10 +6,13 @@
  918 -> 8
 */
 
-using System;
-using System.Text;
-
-Console.OutputEncoding = Encoding.UTF8;
 Console.Write("Введите трёхзначное число: ");
 double n = Convert.ToDouble(Console.ReadLine());
+if(n > 99 && n < 1000)
+{
 Console.WriteLine(n % 10); // Чтобы перевести число в десятичную дробь получить число после запятой.
+}
+else
+{
+    Console.WriteLine($"Ошибка, {n} не трехзначное.");
+}
