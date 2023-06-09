@@ -21,5 +21,5 @@ if (n > 0 && n < 8)
 }
 else
 {
-    Console.WriteLine($"Mistake");
+    Console.WriteLine($"Mistake, there is 7 days in a week.");
 }
