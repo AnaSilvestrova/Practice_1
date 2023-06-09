@@ -12,4 +12,4 @@ using System.Text;
 Console.OutputEncoding = Encoding.UTF8;
 Console.Write("Введите трёхзначное число: ");
 double n = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine(n % 10);
+Console.WriteLine(n % 10); // Чтобы перевести число в десятичную дробь получить число после запятой.
